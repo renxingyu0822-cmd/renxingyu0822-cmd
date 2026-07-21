@@ -310,7 +310,7 @@
   <use href="#ch" x="580" y="36" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="580" y="50" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="580" y="64" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="580" y="78" width="11" height="11" color="#9be9a8"/>
+  <use href="#ch" x="580" y="78" width="11" height="11" color="#fef08a"/>
   <use href="#ch" x="580" y="92" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="580" y="106" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="594" y="22" width="11" height="11" color="#ebedf0"/>
@@ -320,8 +320,8 @@
   <use href="#ch" x="594" y="78" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="594" y="92" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="594" y="106" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="608" y="22" width="11" height="11" color="#9be9a8"/>
-  <use href="#ch" x="608" y="36" width="11" height="11" color="#40c463"/>
+  <use href="#ch" x="608" y="22" width="11" height="11" color="#fef08a"/>
+  <use href="#ch" x="608" y="36" width="11" height="11" color="#facc15"/>
   <use href="#ch" x="608" y="50" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="608" y="64" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="608" y="78" width="11" height="11" color="#ebedf0"/>
@@ -329,27 +329,27 @@
   <use href="#ch" x="608" y="106" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="622" y="22" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="622" y="36" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="622" y="50" width="11" height="11" color="#40c463"/>
+  <use href="#ch" x="622" y="50" width="11" height="11" color="#facc15"/>
   <use href="#ch" x="622" y="64" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="622" y="78" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="622" y="92" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="622" y="106" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="636" y="22" width="11" height="11" color="#40c463"/>
-  <use href="#ch" x="636" y="36" width="11" height="11" color="#9be9a8"/>
+  <use href="#ch" x="636" y="22" width="11" height="11" color="#facc15"/>
+  <use href="#ch" x="636" y="36" width="11" height="11" color="#fef08a"/>
   <use href="#ch" x="636" y="50" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="636" y="64" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="636" y="78" width="11" height="11" color="#9be9a8"/>
+  <use href="#ch" x="636" y="78" width="11" height="11" color="#fef08a"/>
   <use href="#ch" x="636" y="92" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="636" y="106" width="11" height="11" color="#9be9a8"/>
-  <use href="#ch" x="650" y="22" width="11" height="11" color="#9be9a8"/>
-  <use href="#ch" x="650" y="36" width="11" height="11" color="#9be9a8"/>
-  <use href="#ch" x="650" y="50" width="11" height="11" color="#9be9a8"/>
+  <use href="#ch" x="636" y="106" width="11" height="11" color="#fef08a"/>
+  <use href="#ch" x="650" y="22" width="11" height="11" color="#fef08a"/>
+  <use href="#ch" x="650" y="36" width="11" height="11" color="#fef08a"/>
+  <use href="#ch" x="650" y="50" width="11" height="11" color="#fef08a"/>
   <use href="#ch" x="650" y="64" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="650" y="78" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="650" y="92" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="650" y="106" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="664" y="22" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="664" y="36" width="11" height="11" color="#9be9a8"/>
+  <use href="#ch" x="664" y="36" width="11" height="11" color="#fef08a"/>
   <use href="#ch" x="664" y="50" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="664" y="64" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="664" y="78" width="11" height="11" color="#ebedf0"/>
@@ -377,20 +377,20 @@
   <use href="#ch" x="706" y="92" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="706" y="106" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="720" y="22" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="720" y="36" width="11" height="11" color="#9be9a8"/>
+  <use href="#ch" x="720" y="36" width="11" height="11" color="#fef08a"/>
   <use href="#ch" x="720" y="50" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="720" y="64" width="11" height="11" color="#216e39"/>
-  <use href="#ch" x="720" y="78" width="11" height="11" color="#40c463"/>
+  <use href="#ch" x="720" y="64" width="11" height="11" color="#713f12"/>
+  <use href="#ch" x="720" y="78" width="11" height="11" color="#facc15"/>
   <use href="#ch" x="720" y="92" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="720" y="106" width="11" height="11" color="#9be9a8"/>
-  <use href="#ch" x="734" y="22" width="11" height="11" color="#216e39"/>
-  <use href="#ch" x="734" y="36" width="11" height="11" color="#40c463"/>
+  <use href="#ch" x="720" y="106" width="11" height="11" color="#fef08a"/>
+  <use href="#ch" x="734" y="22" width="11" height="11" color="#713f12"/>
+  <use href="#ch" x="734" y="36" width="11" height="11" color="#facc15"/>
   <use href="#ch" x="734" y="50" width="11" height="11" color="#ebedf0"/>
   <text x="311" y="136" font-size="10" fill="#57606a" font-family="ui-sans-serif,sans-serif">Less</text>
   <use href="#ch" x="341" y="126" width="11" height="11" color="#ebedf0"/>
-  <use href="#ch" x="355" y="126" width="11" height="11" color="#9be9a8"/>
-  <use href="#ch" x="369" y="126" width="11" height="11" color="#40c463"/>
-  <use href="#ch" x="383" y="126" width="11" height="11" color="#30a14e"/>
-  <use href="#ch" x="397" y="126" width="11" height="11" color="#216e39"/>
+  <use href="#ch" x="355" y="126" width="11" height="11" color="#fef08a"/>
+  <use href="#ch" x="369" y="126" width="11" height="11" color="#facc15"/>
+  <use href="#ch" x="383" y="126" width="11" height="11" color="#ca8a04"/>
+  <use href="#ch" x="397" y="126" width="11" height="11" color="#713f12"/>
   <text x="414" y="136" font-size="10" fill="#57606a" font-family="ui-sans-serif,sans-serif">More</text>
 </svg>
