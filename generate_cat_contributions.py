@@ -13,10 +13,10 @@ TOKEN    = os.environ.get("GH_TOKEN", "")
 # Light-theme GitHub contribution palette (matches the UI screenshot)
 COLORS = {
     "NONE":            "#ebedf0",
-    "FIRST_QUARTILE":  "#9be9a8",
-    "SECOND_QUARTILE": "#40c463",
-    "THIRD_QUARTILE":  "#30a14e",
-    "FOURTH_QUARTILE": "#216e39",
+    "FIRST_QUARTILE":  "#fef08a",
+    "SECOND_QUARTILE": "#facc15",
+    "THIRD_QUARTILE":  "#ca8a04",
+    "FOURTH_QUARTILE": "#713f12",
 }
 
 QUERY = """query($login: String!) {
