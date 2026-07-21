@@ -385,7 +385,7 @@
   <use href="#ch" x="720" y="106" width="11" height="11" color="#fef08a"/>
   <use href="#ch" x="734" y="22" width="11" height="11" color="#713f12"/>
   <use href="#ch" x="734" y="36" width="11" height="11" color="#facc15"/>
-  <use href="#ch" x="734" y="50" width="11" height="11" color="#ebedf0"/>
+  <use href="#ch" x="734" y="50" width="11" height="11" color="#facc15"/>
   <text x="311" y="136" font-size="10" fill="#57606a" font-family="ui-sans-serif,sans-serif">Less</text>
   <use href="#ch" x="341" y="126" width="11" height="11" color="#ebedf0"/>
   <use href="#ch" x="355" y="126" width="11" height="11" color="#fef08a"/>
